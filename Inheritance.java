@@ -29,3 +29,4 @@ public class Inheritance {
     car.stop();
   }
 }
+
